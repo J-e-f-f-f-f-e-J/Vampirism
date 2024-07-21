@@ -13,8 +13,8 @@ Current required counts to reach
 
 | For Level | [Vampire Blood](../../content/items.mdx#vampire-blood) |
 |-----------|--------------------------------------------------------|
-| 2         | 4                                                      |
-| 3         | 8                                                      |
+| 2         | 1                                                      |
+| 3         | 5                                                      |
 | 4         | 12                                                     |
 
 ## To reach level 5+
